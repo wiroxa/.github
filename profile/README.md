@@ -145,16 +145,16 @@ Wiroxa aims to become a **modern automation layer for developer workflows and di
 # 🔗 Connect With Us
 
 Website
-https://Wiroxa.in
+https://Wiroxa.dev
 
 GitCommitter
-https://gitcommitter.Wiroxa.in
+https://gitcommitter.Wiroxa.dev
 
 LinkedIn
-https://linkedin.com/company/Wiroxasolution
+https://linkedin.com/company/Wiroxa
 
 GitHub
-https://github.com/Wiroxa-Solutions
+https://github.com/Wiroxa
 
 ---
 
